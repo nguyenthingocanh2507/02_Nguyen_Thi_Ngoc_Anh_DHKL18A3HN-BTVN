@@ -1,0 +1,14 @@
+{
+  "ten_cong_ty": "Công ty IT",
+  "dia_chi": "hoàng mai - Hà Nội",
+  "nhan_vien": [
+    {"ten": "Nguyen Van A", "don_vi": "Đơn vị A1"},
+    {"ten": "Tran Thi B", "don_vi": "Đơn vị A1"},
+    {"ten": "Le Van C", "don_vi": "Đơn vị A2"},
+    {"ten": "Pham Thi D", "don_vi": "Đơn vị A2"},
+    {"ten": "Nguyen Van E", "don_vi": "Đơn vị A2"},
+    {"ten": "Tran Van F", "don_vi": "Đơn vị A3"},
+    {"ten": "Le Thi G", "don_vi": "Đơn vị A4"},
+    {"ten": "Pham Van H", "don_vi": "Đơn vị A4"}
+  ]
+}

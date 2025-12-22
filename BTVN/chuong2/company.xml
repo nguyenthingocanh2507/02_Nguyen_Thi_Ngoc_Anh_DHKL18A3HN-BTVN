@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company>
+  <Name>Công ty TNHH ABC</Name>
+  <Director>
+    <FullName>Nguyễn Văn A</FullName>
+    <Title>Giám đốc</Title>
+  </Director>
+  <Contact>
+    <Address>123 Đường lê lợi, Đà Nẵng</Address>
+    <Phone>0123456789</Phone>
+  </Contact>
+  <TaxID>0312345678</TaxID>
+</Company>

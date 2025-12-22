@@ -1,0 +1,20 @@
+# trường hợp trùng thẻ trog các phần tử con với nhau 
+<?xml version="1.0" encoding="UTF-8">
+<Shoporder>
+     <order>
+         <customer>
+            <title>nguyen van a</title>
+            <adress>lang son</adress>
+        </customer>
+        <product>
+             <title>nguyen van b</tilte>
+             <price> 60.000đ</price>
+        </product>
+    </order>
+</Shoporder>
+# tạo cú pháp XML namespace
+# tạo 1 thuộc tính <xmlns:url> # viết tắt của cú pháp trên 
+# url: là đường dẫn url của namespace đchi nào trên internet bảo rằng 
+nó là duy nhất trog file tài liệu xml ng dùng 
+
+    

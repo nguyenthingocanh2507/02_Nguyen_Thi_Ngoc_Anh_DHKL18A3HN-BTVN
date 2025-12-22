@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?> # thẻ XMl
+<DS-SV> # ROOT NODE 
+    <sinhvien> # PHẦN TỬ CHA
+         <tensv>Nguyễn Ngọc Ánh</tensv>
+         <nsinh>2006</nsinh>
+         <gtinh>nu</gtinh>
+    </sinhvien>
+</DS-SV> 

@@ -1,0 +1,17 @@
+# cấu trúc cây ; chứa các phần tử gốc hay phần tử cha, con 
+<?xml version="1.0"?> 
+<Company> 
+  <Employee>  # ttin nvien dc lưu trữ  trog phần tử Employee
+      <FirstName>Nguyễn</FirstName> 
+      <LastName>Văn A</LastName> 
+      <ContactNo>0901234567</ContactNo> 
+      <Email>van.a@uneti.edu.vn</Email> 
+      <Address> # các thuộc tính của nvien các ttin lquan đến cv dc lưu trữ trog các phần tử con 
+<City>Hà Nội</City> 
+        <District>Hai Bà Trưng</District> 
+        <Ward>Vĩnh Tuy</Ward> 
+<Street>Minh Khai</Street> 
+<HouseNumber>456</HouseNumber>  
+      </Address> 
+  </Employee> 
+</Company> 
